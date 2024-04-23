@@ -1,0 +1,27 @@
+{
+  "name": "@yavuzkocca/0xyvzkc",
+  "version": "1.0.0",
+  "description": "Hello Tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yavuzkocca/0xyvzkc.git"
+  },
+  "keywords": [
+    "TEA",
+    "Record"
+  ],
+  "author": "yavuzkocca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yavuzkocca/0xyvzkc/issues"
+  },
+  "homepage": "https://github.com/yavuzkocca/0xyvzkc#readme",
+  "dependencies": {
+    "0xyvzkc": "^1.0.0"
+  },
+  "devDependencies": {}
+}
